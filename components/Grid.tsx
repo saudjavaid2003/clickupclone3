@@ -38,6 +38,14 @@ export function Grid() {
             </p>
            
 
+
+
+
+
+
+
+           
+
           </div>
           <div className="relative  h-[100%] ">
             <Image

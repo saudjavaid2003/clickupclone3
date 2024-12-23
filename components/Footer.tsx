@@ -179,7 +179,7 @@ export function Footer() {
         </div>
         <div className="mt-4 lg:mt-0 space-x-4">
           <span>© 2024 ClickUp</span>
-          <Link href="#">Security</Link>
+          <Link href="#">Scurity</Link>
           <Link href="#">Privacy</Link>
           <Link href="#">Terms</Link>
         </div>
