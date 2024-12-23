@@ -4,7 +4,9 @@ import Hero from "@/components/Hero";
 import { Marketing } from "@/components/Marketing";
 import Navbar from "@/components/Navbar";
 import Productivity from "@/components/Productivity";
+import Team from "@/components/Team";
 import WorkManagementUi from "@/components/WorkManagementUi";
+import { ProjectManag } from "@/components/ProjectManag";
 import Image from "next/image";
 
 export default function Home() {
@@ -15,7 +17,9 @@ export default function Home() {
      <WorkManagementUi/>
      <Productivity/>
      <Marketing/>
+     <Team/>
      <Grid/>
+     <ProjectManag/>
      <Footer/>
     </div>
   );
