@@ -51,7 +51,7 @@ export function Marketing() {
                 <ArrowRight className="ml-2 h-4 w-4" />
               </button>
               <button className="inline-flex items-center justify-center rounded-full bg-[#f1f1f9] px-4 py-2 text-sm font-extrabold text-gray-700 hover:bg-gray-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-gray-500 focus-visible:ring-offset-2">  
-                Learn more
+                Learn more about us
               </button>
             </div>
           </div>
