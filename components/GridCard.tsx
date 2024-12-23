@@ -8,7 +8,7 @@ export function GridCard() {
     <div className="w-full max-w-md p-6 rounded-3xl gridgr2 hidden lg:block text-white shadow-lg">
       <h2 className="text-2xl font-bold mb-1">Customize in a click</h2>
       <p className="text-sm mb-6 opacity-90">
-        Configuring Clockify to different types of work is as easy as flipping a switch
+        Configuring Clockify to different types of work
       </p>
       <div className="space-y-4 mt-14">
         <div className="flex items-center justify-between bg-white/10 backdrop-blur-sm rounded-2xl p-4">
