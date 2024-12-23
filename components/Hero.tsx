@@ -16,13 +16,16 @@ export default function Hero() {
         <Link
           href="#"
           
+
+
+
           className="inline-block  lg:px-24 py-4 text-[11px] px-11 lg:text-2xl font-semibold text-white rounded-xl from-blue-500 bghero hover:to-purple-700 transition-all duration-200 shadow-lg   hover:shadow-xl"
           
         >
           Get Started, It&apos;s FREE →
         </Link>
         <p className="mt-6 text-sm text-gray-500">
-          Free Forever. No Credit Card.
+          Free Forever. No Creditcard
         </p>
       </div>
     </div>
