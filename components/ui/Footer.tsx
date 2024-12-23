@@ -100,7 +100,7 @@ export function Footer() {
             <li className='hover:bg-white'><Link href="#">Email</Link></li>
             <li className='hover:bg-white'><Link href="#">To-Do List</Link></li>
             <li className='hover:bg-white'><Link href="#">Kanban Board</Link></li>
-            <li className='hover:bg-white'><Link href="#">Sprints</Link></li>
+    
           </ul>
         </div>
         <div>
