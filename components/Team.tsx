@@ -83,11 +83,11 @@ export default function Team() {
   }, [emblaApi, onSelect])
 
   return (
-    <section id='Resources' className="herofont w-full py-12 md:py-24 lg:py-32 bg-white">
+    <section id='Resources' className="herofont w-full py-14 md:py-24 lg:py-32 bg-white">
       <div className=" px-4 md:px-6">
         <div className="text-center mb-10">
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-[#1d1e31]">Perfect fit for every team</h2>
-          <p className="mt-4 text-black lg:text-xl max-w-[42rem] mx-auto">
+          <p className="mt-5 text-black lg:text-xl max-w-[42rem] mx-auto">
             <span className='font-semibold'>
 
             Get started fast with out-of-the-box solutions.
@@ -125,7 +125,7 @@ export default function Team() {
             onClick={scrollPrev}
             disabled={!prevBtnEnabled}
           >
-            <ChevronLeft className="w-6 h-6 text-gray-600" />
+            <ChevronLeft className="w-6 h-8 text-gray-600" />
           </button>
           <button
             className="absolute top-1/2 right-24 transform -translate-y-1/2 bg-white rounded-full p-2 shadow-md"
