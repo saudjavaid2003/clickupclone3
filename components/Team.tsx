@@ -95,6 +95,7 @@ export default function Team() {
             <br />
             Easily customize ClickUp as team needs grow!
           </p>
+          <p>Order now today to get 20% off.</p>
         </div>
         
         <div className="relative">
